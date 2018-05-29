@@ -1,0 +1,24 @@
+#compiled class file
+*.class
+
+#log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+#package file
+*.war
+*.jar
+*.zip
+*.tar.gz
+*.rar
+*.ear
+*.nar
+
+.idea/*
+
+.gradle
