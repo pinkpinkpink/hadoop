@@ -19,6 +19,6 @@
 *.ear
 *.nar
 
-.idea/*
+.idea
 
 .gradle
